@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luqman Cassim</h1>
-<h3 align="center">A passionate **Full Stack Developer**</h3>
+<h3 align="center">bored web developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=luqmanshaqiq2&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanshaqiq2" />
@@ -18,7 +18,7 @@
 - Email: [luqmanshaqiq2@gmail.com](mailto:luqmanshaqiq2@gmail.com)
 
 ### ⚡ Fun fact:
-- **Chill nerd** 😎
+- **i have a blackbelt and loves animals** 😎
 
 ---
 
@@ -48,27 +48,26 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luqmanshaqiq2&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
 
 ### 📈 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luqmanshaqiq2&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
----
+
 
 ### 👨‍💻 My Projects:
 - **E-commerce Application** 🛍️ [Coming Soon]
 - [Online Task Manager](#)
 
 
----
+
 
 Feel free to reach out if you'd like to collaborate or just chat! 🌟
