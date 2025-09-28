@@ -47,18 +47,8 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Luka">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka&theme=algolia&hide_border=true" alt="Luka Streak Stats" />
-</a>
-</p>
-
----
-
-### 📊 &nbsp;More GitHub Stats  
+### ⚙️ &nbsp; GitHub Stats  
 
 <p align="center">
   
