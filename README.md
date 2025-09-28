@@ -1,24 +1,21 @@
 ```
-__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
- _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
-  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
-   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
-    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
-     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
-      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
-       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
-        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠀⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡾⠟⢿⣷⡄⢀⣴⡿⠛⢿⣦⡄⢸⣿⠀⢸⣿⠀⢠⣶⣿⠛⢿⣶⡄
+⢸⣿⣷⠃⠀⣿⡏⢿⣿⠶⢷⡾⢿⡇⢸⣿⠀⢸⣿⠀⢿⣿⠀⠀⠀⣿⣿
+⢸⣿⣇⠀⠀⣿⡇⠘⣿⣦⣀⣴⣶⠄⢸⣿⠀⢸⣿⢰⠸⣿⣦⣀⣴⣿⠏
+⠈⠉⠉⠀⠈⠉⠁⠀⠈⠉⠙⠉⠁⠀⠈⠉⠀⠈⠉⠘⠀⠈⠉⠛⠉⠁⠀
 ```
 
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 <ul>
-  <li> 💻 I'm currently working for <a href="https://github.com/super-chat">Superchat</a> </li>
-  <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
+  <li> 💻 I'm currently working for <a href="https://github.com/super-chat">Microservice Backend</a>  and a Campus Project <a href="https://github.com/super-chat"></li>
+  <li> 🎓 2nd Year BIT Student at University of Moratuwa </li>
   <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
-  <li> 📫 How to reach me: <a href="mailto: christiansen.timon@gmail.com">christiansen.timon@gmail.com</a> </li>
+  <li> 📫 How to reach me: <a href="mailto: luqmanshaqiq2@gmail.com">luqmanshaqiq2@gmail.com</a> </li>
 </li>
 </ul>
 
