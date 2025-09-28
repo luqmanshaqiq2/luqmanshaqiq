@@ -28,7 +28,7 @@
 ## Github Stats
 
 <img width="290" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> 
-<img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
 
 ## Spotify Live View
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/)
