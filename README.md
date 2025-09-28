@@ -50,15 +50,16 @@
 
 ### ⚙️ &nbsp; GitHub Stats  
 
-<p align="center">
-  
-![luqmanshaqiq2's Stats](https://github-readme-stats.vercel.app/api?username=luqmanshaqiq2&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
 
-![luqmanshaqiq2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=chartreuse-dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=luqmanshaqiq2&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Luqman's Stats" />
 
-![luqmanshaqiq2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanshaqiq2&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=blueberry&hide_border=true" alt="Luqman's Streak" />
 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanshaqiq2&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Luqman's Top Languages" />
+
+</div>
+
 
 ---
 
