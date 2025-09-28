@@ -9,6 +9,7 @@
 
 
 <img align="right" width="500" src="[https://i.gifer.com/embedded/download/5eKX.gif](https://i.gifer.com/embedded/download/5eKX.gif)" />
+
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Luka;Full+Stack+Student;Story+Writer+%26+Creative+Thinker" />
 
