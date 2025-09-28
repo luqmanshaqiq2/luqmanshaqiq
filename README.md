@@ -52,9 +52,13 @@
 
 <p align="center">
 <a href="https://github.com/Luka">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka&theme=algolia&hide_border=true" alt="Luka Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka&theme=algolia&hide_border=true" alt="Luka Streak Stats" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=vue-dark&hide_border=true" alt="luqmanshaqiq2's Streak" />
 </p>
 
 ---
