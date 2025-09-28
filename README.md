@@ -50,15 +50,22 @@
 
 ### ⚙️ &nbsp; GitHub Stats  
 
+### ⚙️ &nbsp; GitHub Stats  
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=luqmanshaqiq2&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Luqman's Stats" />
+  
+  <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=blueberry&hide_border=true" alt="Luqman's Streak" />
+  
+  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanshaqiq2&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Luqman's Top Languages" />
 
 </div>
+
 
 
 ---
