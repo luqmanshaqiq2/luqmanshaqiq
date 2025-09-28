@@ -26,11 +26,11 @@
 
 <h4>Programming Languages: </h4>
 <p align="left">
- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
- <img src="https://img.icons8.com/color=000000" alt="C#" width="60" height="60"/>
- 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="60" height="60"/>
 </p>
+
 
 <h4>Skills and Tools: </h4>
 <p align="left">
