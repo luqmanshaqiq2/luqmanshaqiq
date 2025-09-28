@@ -1,69 +1,49 @@
-<h1 align="center">Hi 👋, I'm Luqman Cassim</h1>
-<h3 align="center">bored web developer</h3>
+```
+__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
+ _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
+  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
+   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
+    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
+     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
+       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
+        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+```
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=luqmanshaqiq2&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanshaqiq2" />
-</p>
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+<ul>
+  <li> 💻 I'm currently working for <a href="https://github.com/super-chat">Superchat</a> </li>
+  <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
+  <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
+  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📫 How to reach me: <a href="mailto: christiansen.timon@gmail.com">christiansen.timon@gmail.com</a> </li>
+</li>
+</ul>
 
----
+<p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
+<a href="https://www.producthunt.com/@timon_christiansen/made"><img src="https://img.shields.io/badge/-ProductHunt-da552f?style=flat-square&amp;labelColor=fff&amp;logo=Product-Hunt&amp;link=https://www.producthunt.com/@timon_christiansen/made" alt="Product Hunt Badge"></a>
+<a href="https://github.com/8BitJonny/8BitJonny/actions"><img src="https://github.com/8BitJonny/8BitJonny/actions/workflows/main.yml/badge.svg" alt="Build Readme Status"></a></p>
 
-### 🔭 Currently working on:
-- **E-commerce Application** 🛒
+## Github Stats
 
-### 🌱 Currently learning:
-- **React JS** ⚛️
-- **.NET** 💻
+<img width="290" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
-### 📫 How to reach me:
-- Email: [luqmanshaqiq2@gmail.com](mailto:luqmanshaqiq2@gmail.com)
+## Spotify Live View
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
 
-### ⚡ Fun fact:
-- **i have a blackbelt and loves animals** 😎
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
 
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/luqmanshaqiq2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/luqmanshaqiq2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
-
----
-
-### 🛠️ **Languages & Tools:**
 
 <p align="center">
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
- 
- 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  
+  <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
 </p>
 
-
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luqmanshaqiq2&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
-### 📈 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luqmanshaqiq2&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
-
-### 👨‍💻 My Projects:
-- **E-commerce Application** 🛍️ [Coming Soon]
-- [Online Task Manager](#)
-
-
-
-
-Feel free to reach out if you'd like to collaborate or just chat! 🌟
