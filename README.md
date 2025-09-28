@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Luka;Full+Stack+Student;Story+Writer+%26+Creative+Thinker" />
 
 <ul>
-  <li> 💻 Currently working on <a href="https://github.com/">Microservice E-commerce Backend</a> and <a href="https://github.com/">Campus Resource Project</a> </li>
+  <li> 💻 Currently working on <a href="https://github.com/">Microservice E-commerce Backend</a> and a Campus Payroll Project</a> </li>
   <li> 🎓 BIT Student | Learning Full-Stack & DevOps </li>
   <li> 🔭 Side projects mixing tech & storytelling </li>
   <li> 📫 Reach me: <a href="mailto:luqmanshaqiq2@gmail.com">luqmanshaqiq2@gmail.com</a> </li>
