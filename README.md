@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Luka</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a765a45f-1750-499d-8b17-85891b4e9745" /><h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Luka</h1>
 
 <p align="center"><br/>
   <a href="https://www.linkedin.com/in/">
@@ -28,7 +28,7 @@
 <p align="left">
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
+ <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" width="60" height="60"/>
  <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="60" height="60"/>
 </p>
 
