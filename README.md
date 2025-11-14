@@ -12,14 +12,13 @@
 
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
-<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creation～☆</p>
+<p align="center">i'm a tech geek / striving philantrophist ☆</p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
+  <strong><a href="https://x.com/yunaNULL">Linkedin</a></strong> |
   <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
 </p>
 
 <p align="center">
