@@ -5,9 +5,10 @@
     src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif"
     alt="gif"
     className="max-w-full"
+    items-align="center"
   />
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://luqman.me">Luqman(Luka)</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
