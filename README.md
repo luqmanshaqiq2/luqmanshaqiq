@@ -3,7 +3,7 @@
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=AFFF1E00&width=550&lines=Greetings+friend" 
       alt="Typing SVG"
-      style="display:block; margin:auto;"
+      style="display:block; margin-left: 10%;"
     />
   </a>
 </p>
