@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://luqman.me">Luqman(Luka)</a>!</h1>
 
-<h3 align="center">Welcome to my GitHub profile :3</h3>
+<h3 align="center">Welcome to my GitHub Profile 👀</h3>
 
 <p align="center">i'm a tech geek / striving philantrophist ☆</p>
 
