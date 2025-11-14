@@ -22,5 +22,9 @@
 </p>
 
 <p align="center">
- ![luqmanshaqiq2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=nightowl&hide_border=true)
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanshaqiq2&theme=nightowl&hide_border=true" 
+    alt="GitHub Streak Stats"
+  />
 </p>
+
