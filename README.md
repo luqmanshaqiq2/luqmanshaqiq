@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">hi, i'm <a href="https://luqman.me">Luqman(Luka)</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://luqman.me">Luqman(Luka)</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://cdn2.f-cdn.com/contestentries/1983737/57088127/6120970607c5c_thumb900.jpg" alt="luka" height="80px" width="80px">
