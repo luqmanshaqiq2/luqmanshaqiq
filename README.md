@@ -3,7 +3,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" height="240" width="370">
+<img src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" height="240" width="370">
 
 <p align="center"><br/>
   <a href="https://www.linkedin.com/in/">
