@@ -1,11 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=AFFF1E00&width=550&lines=Greetings+friend" 
-      alt="Typing SVG"
-      style="display:block; margin-left: 10%;"
-    />
-  </a>
+  <div class="input-wrapper">
+  <input aria-label="Ask us anything">
+  <span class="placeholder"></span>
+  </div>
 </p>
 
 <p align="center">
@@ -33,3 +30,50 @@
   />
 </p>
 
+
+
+<style>
+body {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  width: 100%;
+}
+
+.input-wrapper {
+  display: block;
+  font-family: monospace;
+  font-size: 125%;
+  width: 50%;
+  > input,
+  > .placeholder {
+    display: block;
+    appearance: none;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+  }
+  > .placeholder {
+    pointer-events: none;
+    @include typed(
+      "How many roads must a man walk down before you call him a man?",
+      "How many seas must a white dove sail before she sleeps in the sand?",
+      "The answer, my friend, is blowin' in the wind",
+      1.5,
+      (
+        caret-width: 2px,
+        caret-space: 2px
+      )
+    );
+  }
+  > input {
+    &:focus,
+    &:active {
+      + .placeholder {
+        display: none;
+      }
+    }
+  }
+}
+</style>
