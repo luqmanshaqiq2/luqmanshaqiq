@@ -2,7 +2,7 @@
 
 <p align="center"><br/>
   <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/linkedin-luka-blue">
+    <img src="https://img.shields.io/badge/linkedin-[luqman](https://www.linkedin.com/in/luqman-cassim/)-blue">
   </a>
   <a href="mailto:luqmanshaqiq2@gmail.com">
     <img src="https://img.shields.io/badge/email-luqmanshaqiq2%40gmail.com-red">
