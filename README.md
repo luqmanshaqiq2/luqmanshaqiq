@@ -1,8 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=AFFF1E00&width=435&lines=Greetings+friend" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=AFFF1E00&width=550&lines=Greetings+friend" 
+      alt="Typing SVG"
+      style="display:block; margin:auto;"
+    />
   </a>
 </p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" alt="gif" />
 </p>
