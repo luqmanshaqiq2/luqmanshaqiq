@@ -9,11 +9,7 @@
 
 
 <h1 align="center">Hi, I'm <a href="https://luqman.me">Luqman(Luka)</a>!</h1>
-<p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://cdn2.f-cdn.com/contestentries/1983737/57088127/6120970607c5c_thumb900.jpg" alt="luka" height="80px" width="80px">
-  </a>
-</p>
+
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
 <p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creation～☆</p>
